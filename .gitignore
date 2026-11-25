@@ -1,0 +1,15 @@
+# Compiled binaries and build artifacts (Rules Г2, Г4)
+config_translator
+config_translator.exe
+*.exe
+*.out
+*.test
+
+# Generated output files (Rule Г4)
+result.json
+output.json
+# Editor and OS files (Rule Г5)
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
